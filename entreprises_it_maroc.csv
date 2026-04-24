@@ -1,0 +1,21 @@
+nom_entreprise,secteur,taille,ville_siege,site_web,type
+TechMaroc SARL,IT,PME,Casablanca,techmaroc.ma,SSII
+DataSmart,Data,Startup,Tanger,datasmart.ma,Produit
+CloudMaroc,Cloud,ETI,Rabat,cloudmaroc.com,Conseil
+Solutions IT,Services,PME,Casablanca,solutionsit.ma,SSII
+Banque Populaire,Banque,Grande Entreprise,Casablanca,banquepopulaire.ma,Banque
+Maroc Telecom,Telecom,Grande Entreprise,Rabat,iam.ma,Telecom
+Capgemini Maroc,Conseil,Grande Entreprise,Casablanca,capgemini.com,Conseil
+HPS,Fintech,ETI,Casablanca,hps-worldwide.com,Produit
+Inwi,Telecom,Grande Entreprise,Casablanca,inwi.ma,Telecom
+Attijariwafa bank,Banque,Grande Entreprise,Casablanca,attijariwafa.com,Banque
+Entreprise IT 1,Data,ETI,Marrakech,entreprise1.ma,Produit
+Entreprise IT 2,Cloud,ETI,Marrakech,entreprise2.ma,Conseil
+Entreprise IT 3,Cybersecurite,Startup,Rabat,entreprise3.ma,Conseil
+Entreprise IT 4,IT,Grande Entreprise,Marrakech,entreprise4.ma,Conseil
+Entreprise IT 5,Data,Startup,Marrakech,entreprise5.ma,Produit
+Entreprise IT 6,Cybersecurite,ETI,Casablanca,entreprise6.ma,Conseil
+Entreprise IT 7,Data,ETI,Casablanca,entreprise7.ma,Conseil
+Entreprise IT 8,IT,PME,Marrakech,entreprise8.ma,Autre
+Entreprise IT 9,IT,Grande Entreprise,Casablanca,entreprise9.ma,SSII
+Entreprise IT 10,IT,ETI,Marrakech,entreprise10.ma,SSII
