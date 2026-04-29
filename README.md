@@ -15,3 +15,13 @@ Ce projet implémente une architecture Data Lake (Bronze, Silver, Gold) pour ana
 2. Installer les dépendances :
    
    pip install -r requirements.txt
+
+3. Exécuter le pipeline complet
+
+   python main.py
+   
+   NB: Le pipeline crée les zones Bronze, Silver et Gold dans data_lake/.
+
+4. Lancer l’analyse
+
+Ouvrir et exécuter le notebook analysis/analyse_marche_it_maroc.ipynb bloc par bloc pour voir les reponse des 5 questions qu'on a.
